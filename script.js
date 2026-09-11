@@ -21,3 +21,4 @@ function adicionarTarefa() {
     lista.appendChild(item);
 
     campo.value = "";
+}
